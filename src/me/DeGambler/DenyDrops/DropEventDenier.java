@@ -20,7 +20,5 @@ public final class DropEventDenier extends JavaPlugin implements Listener {
 		Player player = event.getPlayer();
 		event.setCancelled(true);
 		player.sendMessage(ChatColor.BLUE + "DenyDrops" + ChatColor.GOLD + " Sorry, you're not allowed to drop that!");
-		
 	}
-	
 }
