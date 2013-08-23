@@ -1,0 +1,5 @@
+name: DenyDrops
+version: 0.1
+author: DeGambler
+
+main: me.DeGambler.DenyDrops.DropEventDenier
